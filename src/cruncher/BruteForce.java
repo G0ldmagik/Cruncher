@@ -16,6 +16,8 @@ package cruncher;
 import org.apache.commons.codec.digest.Crypt;
 
 public final class BruteForce {
+
+	System.out.println("I've made a change I hope this shows up =]"); 
     
     /* Private variables declarations */
     public static String salt = "aa";
